@@ -19,10 +19,8 @@ views:
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+kursen webbdesign:
 
-Skriv några kloka ord om kursen?
+Jag är mycket nyfiken att lära mig nya saker om webbdesign. Det kommer bli mycket kul att använda olika them och design i webbsidor.
 
-Lägg till en representativ bild för kursen, enligt ditt egna val.
-
-[FIGURE src=image/car.png?w=300 caption="En fin bil som demobild."]
+[FIGURE src=image/design.jpg?w=400 caption="Design with CSS"]
