@@ -52,7 +52,7 @@
      */
     .row(@columns: @columns) when (@gridType = "float") {
         display: block;
-        width: @totalWidth * (@gridSystemWidth + @gutterWidth);
+        width: (@totalWidth * (@gridSystemWidth + @gutterWidth)-1.04166667);
     }
 
     .row(@columns: @columns) when (@gridType = "flex") {
