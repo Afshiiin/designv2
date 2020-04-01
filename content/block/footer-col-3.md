@@ -1,3 +1,7 @@
-#### Footer col 3
+#### Lär dig mer om design: 
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Lär dig mer om design:   
+dbwebb sida:
+https://dbwebb.se/kurser/design-v2  
+dbwebb kanal: 
+https://www.youtube.com/watch?v=ut8Mx5Fvu9M  

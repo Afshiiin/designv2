@@ -5488,7 +5488,7 @@ hr::after {
 } */
 .row {
   display: block;
-  width: 100%;
+  width: 101.04166667%;
   margin-left: -0.52083333%;
   margin-right: -0.52083333%;
   margin-bottom: 0;
@@ -5661,6 +5661,9 @@ li a {
 }
 .region-flash img {
   margin-left: 0.9837963%;
+}
+table {
+  margin-left: 46.35416667%;
 }
 .region-main.has-sidebar-right {
   display: inline;
@@ -5858,6 +5861,9 @@ ul li ul li {
     margin-right: 0.52083333%;
     margin-left: 0.52083333%;
   }
+}
+.rm-default a {
+  padding: 0.5em;
 }
 /* @columnWidth: 30;
 @gutterwidth: 10;

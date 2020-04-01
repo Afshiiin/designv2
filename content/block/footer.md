@@ -1,1 +1,1 @@
-Copyright år och ditt namn samt diverse länkar som du finner relevanta.
+“Digital design is like painting, except the paint never dries.” 

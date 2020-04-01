@@ -33,5 +33,15 @@ return [
             "url" => "verktyg",
             "title" => "Verktyg och möjligheter för utveckling.",
         ],
+        [
+            "text" => "Test",
+            "url" => "test",
+            "title" => "Test.",
+        ],
+        [
+            "text" => "Rapport",
+            "url" => "verktyg",
+            "title" => "Verktyg och möjligheter för utveckling.",
+        ],
     ],
 ];
