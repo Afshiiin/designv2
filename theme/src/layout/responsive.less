@@ -1,0 +1,102 @@
+/**
+ * Layout for responsive style through media queries.
+ */
+
+@media screen and (max-width: 1500px) {
+    .site-logo {
+        display: none;
+    }
+}
+
+
+@mx-wid-nav: 1010px;
+@media screen and (max-width: @mx-wid-nav) {
+
+    .rm-desktop a {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media screen and (max-width: 745px) {
+
+    .rm-desktop {
+        display: none;
+    }
+    .stylechooser{
+       
+        margin-left: 0;
+        margin-right: 0;
+        display:inline-block;
+    }
+    
+    .region-main {
+        width: 70%;
+        margin-left: 5%;
+        margin-right: 0;
+    }
+  
+    .site-logo-text{
+        width: 5%;
+        top:15px;
+        left:0;
+        font-size: 10px;
+        margin-left:-1px;
+        
+    
+    }
+    .region-flash img{
+        width: 100%;
+       
+        margin-right:0;
+        padding-right:0;
+    }
+    .rm-small{
+        width: 10%;
+        top:1px;
+        right:0;
+        margin-right:15%;
+    }
+    h1{
+        font-size: 16px;
+    }
+    .region-flash{
+        background-color: #3B414F;
+    }
+    row{
+        overflow: auto;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    div .region-sidebar-left {
+        width: 25%;
+        left: 0;
+        float: left;
+        font-size: 12px;
+        margin-left:0;
+        margin-right:0;
+        padding-left:0 ;
+        padding-right: 0;
+    }
+    li .level-1, li .level-2{
+        margin: 5px 0;
+        padding: 5px 0;
+        text-align: left;
+    }
+    .toc{
+        margin: 5px 0;
+        padding: 5px 0;
+        text-align: left;
+    }
+    li {
+        padding: 5px;
+       
+    }
+    p{
+        margin: 5px 0px;
+        font-size: 12px;
+    }
+   
+   
+}
